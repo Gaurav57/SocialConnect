@@ -32,7 +32,7 @@ Here is list of social sites for which you can use this plugin:
 - Wepay
 - Formstack
 - MailChimp
-- Any few more ...
+- And few more ...
 
 If you need any other assistance then you can reach me:
 
