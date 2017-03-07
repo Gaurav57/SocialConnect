@@ -1,5 +1,7 @@
 # SocialMediaConnect
 
+[![Latest Stable Version](https://poser.pugx.org/zfr/zfr-stripe/v/stable.png)](https://packagist.org/packages/gaurav75/socialconnect/stats)
+
 This plugin is used for Zend Framework 2. The use of this plugin is to Single SignOn from various social sites.
 
 Installation:
