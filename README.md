@@ -4,6 +4,8 @@
 [![Total Downloads](https://poser.pugx.org/gaurav57/socialconnect/downloads)](https://packagist.org/packages/gaurav57/socialconnect)
 [![Latest Unstable Version](https://poser.pugx.org/gaurav57/socialconnect/v/unstable)](https://packagist.org/packages/gaurav57/socialconnect)
 [![License](https://poser.pugx.org/gaurav57/socialconnect/license)](https://packagist.org/packages/gaurav57/socialconnect)
+
+
 This plugin is used for Zend Framework 2. The use of this plugin is to Single SignOn from various social sites.
 
 Installation:
