@@ -1,0 +1,18 @@
+{
+    "name":        "SocialConnect",
+    "description": "Any Kind of social medial and other login buttons and to fetch the profile details like name, email",
+    "type":        "library",
+    "license":     "MIT",
+    "keywords":    ["Social", "signin", "zf2", "zend"],
+    "authors": [
+        {
+            "name": "Gaurav Vashishtha",
+            "email": "vashishtha.gaurav5@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework": "~2.2",
+        "social/core": "2.0.*@dev"
+    }
+}
